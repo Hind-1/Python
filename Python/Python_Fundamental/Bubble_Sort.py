@@ -1,4 +1,13 @@
 def Bubble_Sort(arr):
+
+lst = []
+num = int(input('How many numbers: '))
+for n in range(num):
+    numbers = int(input('Enter number '))
+    lst.append(numbers)
+print("Sum of elements in given list is :", sum(lst))
+
+
     print(len(arr))
     for i in range(len(arr)) :
         for i in range (0 , len(arr)-i-1):
