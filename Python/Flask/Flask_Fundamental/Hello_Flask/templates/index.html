@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: linen;
+}
+
+h1 {
+  width: 40px;
+  height: 40px;
+  background-color:maroon;
+} 
+</style>
+</head>
+<body>
+  {% for x in range(0,times): %}
+  <h1 {% if color %}style=" background-color:{{color}};"{% endif %}></h1 >
+{% endfor %}
+
+
+</body>
+</html>

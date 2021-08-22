@@ -1,0 +1,11 @@
+/Users/hindsalem/Desktop/Software_Devolopment/project/project/bin/Release/netcoreapp3.1/project.deps.json
+/Users/hindsalem/Desktop/Software_Devolopment/project/project/bin/Release/netcoreapp3.1/project.runtimeconfig.json
+/Users/hindsalem/Desktop/Software_Devolopment/project/project/bin/Release/netcoreapp3.1/project.runtimeconfig.dev.json
+/Users/hindsalem/Desktop/Software_Devolopment/project/project/bin/Release/netcoreapp3.1/project.dll
+/Users/hindsalem/Desktop/Software_Devolopment/project/project/bin/Release/netcoreapp3.1/project.pdb
+/Users/hindsalem/Desktop/Software_Devolopment/project/project/obj/Release/netcoreapp3.1/project.AssemblyInfoInputs.cache
+/Users/hindsalem/Desktop/Software_Devolopment/project/project/obj/Release/netcoreapp3.1/project.AssemblyInfo.cs
+/Users/hindsalem/Desktop/Software_Devolopment/project/project/obj/Release/netcoreapp3.1/project.csproj.CoreCompileInputs.cache
+/Users/hindsalem/Desktop/Software_Devolopment/project/project/obj/Release/netcoreapp3.1/project.dll
+/Users/hindsalem/Desktop/Software_Devolopment/project/project/obj/Release/netcoreapp3.1/project.pdb
+/Users/hindsalem/Desktop/Software_Devolopment/project/project/obj/Release/netcoreapp3.1/project.genruntimeconfig.cache

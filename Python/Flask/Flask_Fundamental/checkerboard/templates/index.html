@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-color: linen;
+}
+
+h1 {
+width: 40px;
+height: 40px;
+background-color:mediumpurple;
+margin: 0px;
+padding: 0px;
+display: flex;
+display: inline;
+} 
+h2 {
+width: 40px;
+height: 40px;
+background-color:mediumorchid;
+margin: 0px;
+padding: 0px;
+display: flex;
+display: inline;
+} 
+/* div{
+width: 80px;
+height: 80px;
+} */
+</style>
+</head>
+<body>
+    <div>
+        {% for x in range(0,x): %}
+        <h1 {% if color %}style=" background-color:{{color}};  "{% endif %}></h1 >
+        <h2 {% if color %}style=" background-color:{{color}}; "{% endif %}></h2 >
+        {% endfor %}
+        <br>
+        {% for y in range(0,x): %}
+        <h2 {% if color %}style=" background-color:{{color}}; "{% endif %} style=" display: inline-block;"></h2 >
+        <h1 {% if color %}style=" background-color:{{color}};  "{% endif %} style=" display: inline-block;"></h1 >
+        {% endfor %}
+    </div>
+
+</body>
+</html>
